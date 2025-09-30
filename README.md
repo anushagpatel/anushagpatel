@@ -3,7 +3,7 @@
 <br>🔬 Research Assistant @ Northeastern University <br>
 🔹Working on Fine-tuning RoBERTa, XGBoost models to classify English vs. non-English ICLR Papers, boosting F1-score by 85% through preprocessing, tokenization, and hyperparameter tuning (Python, PyTorch, Hugging Face). Also, Documented evaluation metrics (accuracy, precision, recall, F1-score)
 
-<br>🔬 Application Dveloper @ IBM <br>
+<br>🔬 Application Developer @ IBM <br>
 🔹Working on  <br>
 <br>🔬 Associate System Engineer @ TCS <br>
 🔹Working on  <br>
