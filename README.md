@@ -10,7 +10,7 @@
 
 <br>🏆 Certifications<br>🔹 AWS Certified Solutions Architect Associate <br>🔹 AZ-900 Microsoft Azure Fundamentals<br>🔹 Cisco Networking Essentials Certified<br>
 
-🏆 Leadership & Achievements<br>🔹 Co-captain of AWS Cloud Club <br>🔹 Northeastern Climbing Club Member 🔹 LEAD360 - Graduate Leadership Program
+🏆 Leadership & Achievements<br>🔹 Co-captain of AWS Cloud Club <br>🔹 Northeastern Climbing Club Member <br>🔹 LEAD360 - Graduate Leadership Program
 
 
 
