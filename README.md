@@ -1,9 +1,11 @@
 # 💫 About Me:
-👋 Hey there! I'm Anusha G Patel<br>🚀 Software Engineer | AI Full-Stack Developer <br><br>🎓 M.S. in Software Engineering @ Northeastern University, U.S.<br> <br>🔬 Research Assistant @ Northeastern University working on Fine-tuning RoBERTa, XGBoost models to classify English vs. non-English ICLR Papers, boosting F1-score by 85% through preprocessing, tokenization, and hyperparameter tuning (Python, PyTorch, Hugging Face). Also, Documented evaluation metrics (accuracy, precision, recall, F1-score)
+👋 Hey there! I'm Anusha G Patel<br>🚀 Software Engineer | AI Full-Stack Developer <br><br>🎓 M.S. in Software Engineering @ Northeastern University, U.S.<br> <br>🔬 Research Assistant @ Northeastern University
+Working on Fine-tuning RoBERTa, XGBoost models to classify English vs. non-English ICLR Papers, boosting F1-score by 85% through preprocessing, tokenization, and hyperparameter tuning (Python, PyTorch, Hugging Face). Also, Documented evaluation metrics (accuracy, precision, recall, F1-score)
 
 <br>Working on  <br><br>🏆 Certifications<br>🔹 AWS Certified Solutions Architect Associate <br>🔹 AZ-900 Microsoft Azure Fundamentals<br>🔹 Cisco Networking Essentials Certified<br>
 
-🏆 Leadership & Achievements<br>🔹 Co-captain of AWS Cloud Club <br>🔹 Northeastern Climbing Club Committee Member
+🏆 Leadership & Achievements<br>🔹 Co-captain of AWS Cloud Club <br>🔹 Northeastern Climbing Club Member 🔹 LEAD360 - Graduate Leadership Program
+
 
 
 # 🌐 Socials:
@@ -14,11 +16,11 @@
 
 
 # 💻 Tech Stack:
-<!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-[C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
+<!-- ![C#](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+[Python](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![.NET Core](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![ReactJS ](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Azure DevOps](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MVC Framework](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![REST APIs](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
 
 
 
