@@ -1,6 +1,6 @@
 ## 💫 About Me:
 👋 Hey there! I'm Anusha G Patel<br>🚀 Software Engineer | AI Full-Stack Developer <br>🎓 M.S. in Software Engineering @ Northeastern University, Boston <br> 
-**💻 Work Experience**
+## 💻 Work Experience
 <br>**🔬Research Assistant @ Northeastern University** <br>
 **💻Application Developer @ IBM**<br>
 **💻Associate System Engineer @ TCS** <br> <br>
