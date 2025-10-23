@@ -1,11 +1,13 @@
 ## 💫 About Me:
 👋 Hey there! I'm Anusha G Patel<br>🚀 Software Engineer | AI Full-Stack Developer <br>🎓 M.S. in Software Engineering @ Northeastern University, Boston <br> 
-## 💻 Work Experience
+### 💻 Work Experience
 <br>**🔬Research Assistant @ Northeastern University** <br>
 **💻Application Developer @ IBM**<br>
 **💻Associate System Engineer @ TCS** <br> <br>
-**🏆 Certifications** <br>🔹 AZ-900 Microsoft Azure Fundamentals<br>🔹 Azure DevOps Fundamentals <br> 🔹 React Developer Certification<br>🔹AI at Workplace - Northeastern University <br>🔹C# Fundamentals <br>
-**🏆 Leadership & Achievements** <br>🔹Co-captain of AWS Cloud Club <br>🔹Northeastern Climbing Club Member <br>🔹LEAD360 - Graduate Leadership Program
+### 🏆 Certifications
+**<br>🔹 AZ-900 Microsoft Azure Fundamentals<br>🔹 Azure DevOps Fundamentals <br> 🔹 React Developer Certification<br>🔹AI at Workplace - Northeastern University <br>🔹C# Fundamentals <br>**
+### 🏆Leadership & Achievements 
+**<br>🔹Co-captain of AWS Cloud Club <br>🔹Northeastern Climbing Club Member <br>🔹LEAD360 - Graduate Leadership Program**
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-gpatel/) 
