@@ -5,7 +5,7 @@
 
 **🔬 Application Developer @ IBM**<br>
 **🔬 Associate System Engineer @ TCS** <br> <br>
-**🏆 Certifications** <br>🔹 AZ-900 Microsoft Azure Fundamentals<br>🔹 Azure DevOps Fundamentals <br> 🔹 React Developer Certification<br>🔹AI at Workplace - Northeastern University <br>🔹C# Fundamentals
+**🏆 Certifications** <br>🔹 AZ-900 Microsoft Azure Fundamentals<br>🔹 Azure DevOps Fundamentals <br> 🔹 React Developer Certification<br>🔹AI at Workplace - Northeastern University <br>🔹C# Fundamentals <br>
 **🏆 Leadership & Achievements** <br>🔹Co-captain of AWS Cloud Club <br>🔹Northeastern Climbing Club Member <br>🔹LEAD360 - Graduate Leadership Program
 
 # 🌐 Socials:
