@@ -1,10 +1,10 @@
 # 💫 About Me:
 👋 Hey there! I'm Anusha G Patel<br>🚀 Software Engineer | AI Full-Stack Developer <br>🎓 M.S. in Software Engineering @ Northeastern University, Boston <br> 
-<br>🔬 Research Assistant @ Northeastern University <br>
+<br>**🔬 Research Assistant @ Northeastern University** <br>
 🔹Working on Fine-tuning RoBERTa, XGBoost models to classify English vs. non-English ICLR Papers, boosting F1-score by 85% through preprocessing, tokenization, and hyperparameter tuning (Python, PyTorch, Hugging Face). Also, Documented evaluation metrics (accuracy, precision, recall, F1-score)
 
 **🔬 Application Developer @ IBM**<br>
-**🔬 Associate System Engineer @ TCS ** <br> <br>
+**🔬 Associate System Engineer @ TCS** <br> <br>
 **🏆 Certifications** <br>🔹 AZ-900 Microsoft Azure Fundamentals<br>🔹 Azure DevOps Fundamentals <br> 🔹 React Developer Certification <br> 
 <br>🔹AI at Workplace - Northeastern University <br>🔹C# Fundamentals
 **🏆 Leadership & Achievements** <br>🔹Co-captain of AWS Cloud Club <br>🔹Northeastern Climbing Club Member <br>🔹LEAD360 - Graduate Leadership Program
